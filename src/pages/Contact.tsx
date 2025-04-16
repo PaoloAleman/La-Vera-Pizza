@@ -6,7 +6,7 @@ export const Contact = () => {
     return (
         <>
             <Header />
-            <div className="container mx-auto px-4 py-20 max-w-3xl text-white">
+            <div className="container mx-auto px-4 py-20 max-w-3xl text-white min-h-screen">
                 <h1 className="text-5xl font-bold text-[#dc9d25] mb-6 text-center font-viera">Contacto</h1>
 
                 <p className="text-center text-lg mb-10">
